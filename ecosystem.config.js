@@ -1,7 +1,7 @@
 module.exports = {
     apps : [
     {
-      name: 'Edunet API Gateway',
+      name: 'I-task API Gateway',
       script: 'app.js', 
       instances: 1,
       autorestart: true,
