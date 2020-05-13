@@ -17,6 +17,10 @@ module.exports = {
 			path:"projects", 
 			port:"5004"
 		},
+		{
+			path:"chats",
+			port: "5005"
+		}
 
 
 	]
